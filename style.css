@@ -47,8 +47,14 @@ a {
     padding: 15px;
     text-decoration: none;
     display: block;
-    border-radius: 5px;
+    border-radius: 5px;    
 }
+
+a:hover {
+    background-color: white;
+    color: limegreen;    
+}
+
 
 footer {
     color: white;
